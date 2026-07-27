@@ -18,6 +18,7 @@ Open the `main.ipynb` file in the `your-code` directory. There are a bunch of qu
 
 ## Submission
 
+
 - Upon completion, add your deliverables to git. 
 - Then commit git and push your branch to the remote.
 - Make a pull request and paste the PR link in the submission field in the Student Portal.
